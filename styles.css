@@ -61,6 +61,8 @@ body {
     justify-content: space-between;
     font-weight: 400;
     margin: 15px 0;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 20px;
 }
 
 .price, .clock {
